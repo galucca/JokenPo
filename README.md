@@ -1,22 +1,25 @@
 
-# 🪨📄✂️ JokenPo - Pedra, Papel e Tesoura
+#🪨📄✂️ JokenPo - Pedra, Papel e Tesoura
+Desfrute de uma versão simples e divertida de Pedra, Papel e Tesoura (JokenPo) desenvolvida em Flutter, onde você compete contra a escolha aleatória do aplicativo! 🕹️
 
-Um simples e divertido jogo de **Pedra, Papel e Tesoura** (JokenPo) desenvolvido em **Flutter**, onde você joga contra a escolha aleatória do aplicativo. 🕹️
+#📱 Funcionalidades
+Escolha entre Pedra, Papel ou Tesoura
 
----
+O app faz uma jogada aleatória contra a sua
 
-## 📱 Funcionalidades
+Exibição dinâmica do resultado com:
 
-- Escolha entre **Pedra**, **Papel** ou **Tesoura**
-- O app faz uma jogada aleatória
-- Exibição dinâmica do resultado com:
-  - ✅ Mensagem personalizada
-  - 🎨 Cores que indicam vitória (amarelo), derrota (vermelho) ou empate (azul)
-- 📊 Contagem de pontos entre jogador e app
-- 📷 Imagens com identificação do nome abaixo de cada opção
-- ⏳ Pequeno delay para melhorar a experiência e criar suspense
+✅ Mensagem personalizada
 
----
+🎨 Cores indicativas de vitória (amarelo), derrota (vermelho) ou empate (azul)
+
+📊 Contagem de pontos entre jogador e app, para monitorar o progresso
+
+📷 Imagens com o nome da opção abaixo de cada escolha
+
+⏳ Pequeno delay para aumentar a emoção e suspense na jogada
+
+
 
 ## 💻 Tecnologias Utilizadas
 
@@ -50,7 +53,7 @@ Um simples e divertido jogo de **Pedra, Papel e Tesoura** (JokenPo) desenvolvido
 
 ---
 
-## 📸 Screenshot
+## 📸 Imagens
 
 ![preview](https://imgur.com/fwnlGy9.png) 
 ![preview](https://imgur.com/0KIpzVI.png) 
@@ -64,6 +67,3 @@ Veja um vídeo de demonstração do APP - (https://imgur.com/kd42vfI.mp4)
  
 ---
 
-## 👨‍💻 Autor
-
-Pedro Gomes de ALmeida
