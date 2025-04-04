@@ -60,11 +60,8 @@ Exibição dinâmica do resultado com:
 ![preview](https://imgur.com/aNuAtb4.png) 
 
 ---
+
 Link do video: https://drive.google.com/file/d/1t_E89RbYxLW56_nmox455dsTVv8G1ZEg/view?usp=drivesdk
 
-## 🎥 Demonstração
 
-Veja um vídeo de demonstração do APP - (https://imgur.com/kd42vfI.mp4)
- 
----
 
